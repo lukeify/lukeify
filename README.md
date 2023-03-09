@@ -4,7 +4,7 @@
 
 Work:
 
-- Senior Developer [@ackama](https://github.com/ackama).
+- Senior Rails Developer [@ackama](https://github.com/ackama).
 - I spend most of my remaining time as the co-founder [@bluewing](https://github.com/bluewing).
 
 ☁️ Speaks Terraform.

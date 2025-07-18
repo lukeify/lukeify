@@ -8,7 +8,7 @@ Stay learning, stay curious.
 
 # Work 
 
-- Senior Rails Developer [@ackama](https://github.com/ackama).
+- Solutions Architect & Project Lead [@ackama](https://github.com/ackama).
 - Co-founder [@bluewing](https://github.com/bluewing).
 
 # Interests
